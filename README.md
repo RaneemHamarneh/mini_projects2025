@@ -1,4 +1,4 @@
-# mini_projects2025
+# Mini_projects2025
 1) Mini calculater by using Python 
     # Mini Calculator (CLI)
 
@@ -14,3 +14,11 @@
         ## 🚀 Usage
         ```bash
         python mini_calculator.py
+
+2) Mini Mood Tracker Project by using Python 
+    
+
+    """
+    Build a "Mood Tracker".
+    Users input their mood (happy, sad, stressed, neutral) each day, and the program calculates the percentage of each mood over a week.
+    """
